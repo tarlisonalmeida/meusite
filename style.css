@@ -211,8 +211,7 @@ footer {
 
 @media (min-width: 320px) {
     body{
-        width:100vw;
-        height:100vh;
+        overflow:hidden;
     }
         
     .menu {
@@ -310,12 +309,8 @@ footer {
         height: 20px;
     }
 
-    footer {
-        height: auto;
-    }
-
     footer .container {
-        height: 80px;
+        height: 70px;
         width: 320px;
         display: flex;
         flex-direction: column;
