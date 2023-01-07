@@ -210,6 +210,11 @@ footer {
 }
 
 @media (min-width: 320px) {
+    body{
+        width:100vw;
+        height:100vh;
+    }
+        
     .menu {
         display: none;
     }
