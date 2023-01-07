@@ -307,11 +307,6 @@ footer {
         height: 20px;
     }
 
-    footer {
-        height: auto;
-        margin-bottom: 20px;
-    }
-
     footer .container {
         height: 70px;
         width: 320px;
@@ -411,10 +406,7 @@ footer {
         height: 20px;
     }
 
-    footer {
-        height: auto;
-    }
-
+  
     footer .container {
         display: flex;
         flex-direction: row;
