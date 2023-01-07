@@ -310,7 +310,7 @@ footer {
     }
 
     footer .container {
-        height: 70px;
+        height: 100px;
         width: 320px;
         display: flex;
         flex-direction: column;
